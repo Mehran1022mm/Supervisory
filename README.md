@@ -1,12 +1,7 @@
 # 🔒 Supervisory
 
-A simple Minecraft plugin built with Maven to enhance performance or add specific functionality to your server.
-
-## Features
-- List the key features of your plugin here. For example:
-  - Restricts certain commands based on player session status.
-  - Custom command handling.
-  - Easy integration with existing servers.
+You can use this plugin as an extra layer of protection. You can block various commands and access them using sessioned one-time passwords.
+I will not provide support for this plugin anymore.
 
 ## Installation
 

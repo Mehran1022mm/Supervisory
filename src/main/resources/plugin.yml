@@ -1,0 +1,14 @@
+name: Supervisory
+version: 1.0
+main: ir.mehran1022.supervisory.Supervisory
+api-version: 1.16
+author: Mehran1022
+description: >
+  A security plugin that prevents unauthorized usage of critical commands 
+  using a one-time code verification system.
+
+commands:
+  supervisory:
+
+depend: []
+softdepend: []

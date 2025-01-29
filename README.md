@@ -11,7 +11,7 @@ I will not provide support for this plugin anymore.
 
 ## Configuration
 
-- The plugin configuration file can be found at plugins/[Plugin Name]/config.yml.
+- The plugin configuration file can be found at plugins/Supervisory/config.yml.
 *OP is needed for reloading the plugin*
 
 ## Commands
